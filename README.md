@@ -1,7 +1,7 @@
 
 ### Hi There 👋 
 ## I'm **Zahin Ekbal!** here. 
-- 💻 I’m currently working on **Android Portfolio**
+- 💻 I’m currently working on **Python Flask & Node js**
 
 - 📖 I’m currently learning **Backend Development & Frameworks**
 
