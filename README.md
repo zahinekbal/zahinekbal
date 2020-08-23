@@ -3,7 +3,7 @@
 ## I'm **Zahin Ekbal!** here. 
 - 💻 I’m currently working on **Python Flask & Node js**
 
-- 📖 I’m currently learning **Backend Development & Frameworks**
+- 📖 I’m currently learning **Backend Development & Competitive Programming**
 
 - 👯 I’m looking to collaborate on **OpenSource** projects on **web developement & Data structure**
 
@@ -14,3 +14,10 @@
 - 😄 Pronouns: **Coder**, **Front developer** and **Kind Hearted**
 
 - ⚡ Fun fact: I spend almost 12 hours listening songs everyday...I love **Strawberry** flavoured icecream 🍨 . Let's grab some in your free time.
+
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zahinekbal&theme=radical&line_height=10&hide_langs_below=1&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=zahinekbal&show_icons=true&theme=radical&line_height=21" alt="Zahin's github stats"/>
+</p>
+<br>
