@@ -1,7 +1,7 @@
 
 ### Hi There 👋 
 ## I'm **Zahin Ekbal!** here. 
-- 💻 I’m currently working on **Python Flask & Node js**
+- 💻 I’m currently working on **React js & Node js**
 
 - 📖 I’m currently learning **Backend Development & Competitive Programming**
 
